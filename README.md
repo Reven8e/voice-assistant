@@ -1,6 +1,6 @@
 # voice-assistant
 
-### Jimmy- A voice assistant.
+### Jimmy- a voice assistant.
 - Can start/stop/queue/play next/play previous In spotify.
 - Can tell the weather.
 - Can tell my schedule.
